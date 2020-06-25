@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Проверка правильности перевода на русский язык</description>
+   <name>Локализация EN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcfdd78f-cbc6-4471-ae48-6c65307ab6bb</testCaseGuid>
+</TestCaseEntity>

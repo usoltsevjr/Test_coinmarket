@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Вывести на экран 10 токеров с сортировкой по volume_24h (от максимального к минимальному)</description>
+   <name>Запрос 10 токеров</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1567d1c-b5a8-4149-bfda-389a25cf94ae</testCaseGuid>
+</TestCaseEntity>
